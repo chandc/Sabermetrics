@@ -1,0 +1,144 @@
+ 
+ANDY ANDRES: So let's run through our survey of various hitting metrics,
+various measures of offensive performance, by a team,
+and look at how they relate to the team runs scored.
+Quick reminder, these data are from 1955 to 2013,
+and it ended up being 1,428 team seasons,
+so N equals 1,428 team seasons included here.
+We excluded team season data from shortened seasons because of strikes.
+So this is our data set, these team season data,
+and we're looking at team batting average
+as it relates to team runs scored.
+We went through this slide before, and we
+saw that 67% here, 0.67, for the coefficient of the termination
+R squared, indicates that 67% of the variation in team runs
+scored is explained by batting average.
+But can we do better than just batting average?
+Batting average isn't bad, but the problem with batting average
+is it doesn't really have any indication about power slugging.
+It treats home runs equally to singles, and we
+know those are the same kinds of hits in the game,
+so we probably can improve on batting average.
+What if we just looked at home runs straight up?
+Here's home runs.
+This is cumulative home run data, just the sum total
+of home runs hit by the team versus the team runs
+scored, and 55% is our coefficient of determination, our R squared, 0.55.
+That correlation isn't as strong.
+The coefficient of determination isn't as strong as batting average,
+but there still is one.
+A real important piece here that is not describing in these data of home runs,
+is the ability to get on base and not make outs.
+So the sabermatrician knows that home runs by itself is probably
+not the best metric to get at team runs scored, to explain team runs scored.
+And again, team runs scored is our sort of standard
+here that we want to get closer to.
+So home runs isn't that good.
+Home runs isn't that good.
+Neither was batting average.
+They're fine.
+These coefficients of determinations for each of them was OK,
+but we can probably do better by somehow combining this idea of getting on base,
+not making outs, and power.
+The ability to move runners along with hits that you go farther on the bases
+than just a normal single or a walk.
+So that's the idea of some of the advanced metrics.
+Let's move on, and we'll look at hits.
+Hits, again, is a straight counting stat.
+This stat here just counts the number of hits a team has in a given season
+and relates it to team runs scored.
+The R squared is 67%, very similar to batting average.
+The R squared of batting average is 67%, a little bit better
+than just the straight count of hits.
+So again, we're still on a hunt for improving
+our R squared to try to get a higher number here.
+So let's try a few other statistics, hitting metrics, on base percentage.
+Here's the formula for on base percentage.
+It's hits plus walks plus getting hit by pitch
+as a batter divided by at bats plus walks plus hit
+by pitch plus sacrifice flies.
+This is the formula for on base percentage,
+and we calculated on base percentage for all teams in that data
+set from 1955 to 2013.
+So here's on base percentage, and it ranges from 270 up to 370-ish,
+and that's a pretty wide range.
+But remember, we have different run scoring environments
+included in this data set.
+Very low run scoring environments of the mid to late '60s and then higher
+run scoring environments of the late '90s, early 2000s.
+So that explains some of the variation in the on base percentage.
+Now, what we care about though is the R squared,
+the coefficient of determination.
+So now, we're up to 78%.
+78% of the variation in team runs scored could
+be explained by on base percentage.
+That's better than just counting hits, counting home runs, or batting average.
+Let's keep marching along on our survey of other metrics.
+Let's look at slugging.
+What is slugging?
+Slugging is total bases divided by at bats.
+Here's how we think of total bases.
+Slugging is you add up the singles, you multiply doubles by two, triples
+by three, and home runs by four, and that sum is what's called total bases,
+then you divide it by at bats.
+This is an older metric that was reported for many years, many decades,
+as an indication of power.
+You can see how home runs are weighted four times the value of a single
+in terms of the summation of the calculation of slugging.
+So we calculate slugging for all team seasons in our sample of 1955 to 2013,
+and we can see that the coefficient of determination is now 82%.
+We're getting better with using slugging.
+So slugging by itself is better than batting average, better than home runs,
+better than hits, and in the same ballpark as on base percentage.
+They measure two different things.
+On base percentage is the ability to get on base and not make outs.
+Slugging is the ability to say move runners along
+with hits that advance base runners and batters around the bases more quickly.
+So let's look at a few more hitting metrics
+that might be related to team runs scored.
+Here's another one, OPS.
+ 
+OPS is simply defined as on base percentage,
+here's OPS, on base percentage plus slugging.
+It's a simple addition of two terms.
+Now, these two terms scale differently, and they have different denominators,
+and they do represent two different parts of the important measures
+of offense in the game, getting on base, not
+making outs, advancing runners with more powerful hits.
+It could be argued that adding together might be better
+than each of these individually.
+Turns out, it is.
+Turns out that the R squared goes up when you add them together.
+And if you just sort of visually inspect the scatter plot here of these two
+variables, you can see it's tighter around the line of best fit.
+So this idea of the R squared going up makes sense because of the tighter fit.
+So OPS, the way we would describe this is
+that 89% of the variation in team runs scored
+can be described by on base plus slugging percentage, OPS.
+So we're getting closer and closer to one, and closer and closer
+to describing team runs scored much more completely.
+Let's look at one more variable.
+This is runs created.
+Runs created is hits and walks multiplied by total bases.
+Hits and walks looks a lot like on base percentage and total bases
+looks a lot like slugging, and it's divided
+by at bats plus walks, which looks a lot like plate appearances.
+This is very similar to on base percentage times slugging percentage.
+Not exact, but close.
+Look what happens to our coefficient of determination.
+It goes up.
+So now we're getting to 92.4% of the variation in team runs scored.
+The variation in team runs scored can be explained
+by multiplying our on base percentage and slugging percentage.
+So that's slightly better than OPS.
+The runs created, this formula here, is a simple formula created by Bill James,
+and subsequent to his publication of this formula,
+he's modified runs created to make it more complex,
+including things like stolen bases and caught stealing
+and other variables of offensive performance,
+and he's getting a more and more better representation of team runs scored.
+But again, this is a pretty simple formula,
+and it does really well compared to a lot of other metrics anyway,
+really well to describing the variation of team runs scored
+of variable of interest.
+ 

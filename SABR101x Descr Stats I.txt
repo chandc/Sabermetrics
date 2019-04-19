@@ -1,0 +1,153 @@
+ 
+ANDY ANDRES: Recall from an earlier session
+that we divided statistics into actual numbers, measures of something.
+And then the field of study of statistics.
+And in the field of study of statistics, we
+can divide that field into two main areas.
+Descriptive statistics.
+Descriptive statistics and inferential statistics.
+This segment will be about descriptive statistics.
+Some describe descriptive statistics with the acronym C-O-P-S, COPS.
+And COPS stands for the collection, organization, presentation,
+and summarization of data.
+ 
+So when you're performing descriptive statistics,
+you collect, organize, present, and especially, summarize data.
+In summarizing data, there are three things we do to the data set.
+We look for measures of the middle.
+Measures of the middle.
+This is also called central tendency.
+Measures of central tendency.
+And we'll define what those are.
+That's one thing we do when we summarize data.
+The other thing we do with data sets is describe the spread.
+ 
+How the data is spread out.
+And finally, we look at the shape of the data.
+And we'll describe what this is.
+This has to do with distributions.
+The shape of the data.
+How the data's distributed, how it's spread,
+and the central tendency of the data.
+So let's create a small little data set to use as an example
+to better understand some descriptive statistics.
+Here is a simple query looking up the data of David Ortiz.
+Now right here is the playerid for David Ortiz.
+And just to give you a hint on how the player IDs in the Lahman database
+are stored, the first five letters generally represent the last name,
+and then there's two letters for the first name.
+And then there's a counter based on duplicates of the first seven letters.
+That's the typical setup of the player ID.
+So I ran this little query, and this represents David Ortiz's player season
+statistics since he first was a rookie in 1997, all the way through 2013.
+And the data set we're going to look at is his list of home runs.
+Now here's the home run, here's the home run column.
+Remember this field here describes the home runs
+that David Ortiz hits every season.
+And here's the list.
+The most he's ever hit was 54, and he did that in 2006.
+But you can see, this is, this will be the small data set that we use.
+So here's the list of home runs just in chronological order.
+So we want to try to establish descriptive statistics
+on this small little data set.
+So for measures of central tendency, we're
+going to look at mean, median, and mode.
+And there are plenty of others, but those
+are the basics when you take your statistics class, your intro statistics
+class, you'll learn all the other measures of central tendency.
+The three measures of central tendency that we're
+going to look at on this small data set are
+mean, which is just the average of the data set, mean, median, and mode.
+So we're going to define these quickly on this data set.
+So here again is our sample data set of the home
+runs David Ortiz has hit every season during his major league career.
+Let's get a few notations down, N, when we talk N,
+N is the number of data points in our sample set.
+Number of data points in our sample set.
+ 
+So the number of data points if you count them, there are 17.
+So in this case, our data set, we have N of 17.
+Another notation you'll see when you talk about descriptive statistics
+is the sigma sign.
+And specifically in any sample, sigma X is the sum
+of all the data points in the sample set.
+So sum of all data points.
+ 
+In this case, if you add them up, maybe you want to, or just trust me.
+Over that time span, David Ortiz had 431 home runs.
+So at the end of 2013, he had 431 home runs over the 17 year career
+that he had.
+And then we're going to define what the mean is, what the average is,
+and the notation we use is an X with a bar over it.
+And so that's mean or average.
+And that's defined as the sum of all data points, sigma X, divided by N,
+the number of data points.
+And intuitively, a lot of us have done averages before.
+You take all the numbers in the data set, you sum them,
+you get the sum total, and you divide it by the number in the sample.
+So in this case, it's 431 divided by 17.
+That turns out to be 25.35.
+So what that says, is David Ortiz, the average number of home
+runs he's hit every year he's played major league baseball is 25.35.
+25.35 home runs per year on average.
+That's the mean.
+So the next descriptive statistic we want to cover is median.
+This is another measure of central tendency median.
+And to get median, to really understand median,
+you need to rank order your sample data.
+Your data set.
+So what I've done is convert this chronological series here
+of home runs every year for David Ortiz, and I've changed it.
+I've ranked ordered it from the lowest here, this is the lowest,
+to the highest.
+So when we rank order, we're able to better appreciate
+the complete range of data.
+And we'll talk about that when we talk about the next set
+of descriptive statistics.
+But what the median represents is the middle.
+The middle of the sample data set.
+And that's why you want to rank order them.
+There are 17 here, and the middle point is this one here.
+So the median is 28.
+Median.
+Now that's simple, because we have an odd number
+of N. N equals 17, that's an odd number, and that
+means eight points are on one side of the median.
+These eight points here are on one side of the median, these eight points
+here on the other side of the median, so this is obviously the middle.
+Eight on each side.
+But what if the case was N was only 16?
+So just let's do a theoretical experiment,
+and say N was-- I'm going to erase everything here, N now is 16.
+So N is 16.
+ 
+So what if we had only an N of 16?
+N now equals 16.
+And theoretically, let's say David Ortiz never
+had this season where he hit zero home runs.
+And he only had these 16 data points to go from.
+What would the median be?
+Because it would sort of fit right here.
+It would fit right here.
+What you do when you calculate the median of an even data set,
+a data set with an even n, is you take the two middle numbers, here 28 and 29,
+and you just take the average of them.
+So in this case, the median would be 28.5.
+28.5 is the average of those two middle numbers.
+So that's how you calculate the median in an even data set.
+Remember, this is theoretical, David Ortiz, of course, played 17 years.
+Now finally, mode.
+What is the mode?
+And again, this rank order data set is going to help us.
+So what is the mode?
+Another measure of central tendency.
+Well the mode is the most common number in the data set.
+Now if we look across all 17 data points here,
+there's only one that's duplicated.
+David Ortiz twice has hit 23 home runs in a season.
+So this is-- there are two data points with 23, so that would be the mode.
+The mode would be 23.
+Mode equals 23 in this simple data set.
+But if we had a different data set, the mode
+would just be the most common data point.
+ 

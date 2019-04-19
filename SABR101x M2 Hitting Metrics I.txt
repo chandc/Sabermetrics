@@ -1,0 +1,109 @@
+ 
+ANDY ANDRES: In our sabermetrics track in this module,
+we're going to cover some of the fundamentals of sabermetrics.
+And we're going to frame it around the problem with batting average,
+looking at various hitting metrics.
+But first, some basic baseball knowledge.
+There are many outcomes that happen when a batter steps into the batters box
+to start their at bat.
+There can be hits.
+And those are categorized as singles, doubles, triples, and home runs.
+ 
+There can be various outs.
+And I'm separating them out for a reason.
+Some outs are sacrifice hits.
+We sometimes call those sacrifice bunts.
+And the notation for that is here.
+That's SH.
+There's sacrifice flies, another category of out, abbreviated SF.
+And there are many other types of outs.
+Grounders that are fielded by the fielders.
+Fly balls or pop-ups which are caught by fielders.
+Outs is certainly a very common outcome when
+a batter steps into the batters box for their turn at bat.
+Another thing that can happen is the batter can reach base on an error
+by one of the fielders.
+And another outcome is they reach base based on the decision of the fielders,
+either the fielder's choice or a force out.
+The fielders are attempting to make a play on a runner as opposed
+to the batter.
+So the batter can make it to first because the fielders
+choose to try to make a play on a runner.
+They can also walk.
+These are both intentional walks that the defense
+decides to let the batter get on base.
+And then unintentional walks when they weren't
+attempting to let the batter just get on base.
+They can also make it to first on a hit by pitch.
+And then there's also defensive interference.
+So these are various outcomes.
+I want to categorize them in a certain way.
+There's one other statistic very commonly used
+in baseball called the at bat.
+And this is distinguished from another statistic called the plate appearance.
+So at bats and plate appearances are different.
+Now, an at bat is counted when you reach by a hit.
+So here are-- I'm going to indicate with a blue star-- the outcomes
+that are added into the at bat.
+So I'll put in a blue star here just to know that they're connected.
+So when the batter makes a hit, the batter reaches on an error.
+That's another category of an at bat.
+Then there's a fielder's choice.
+So this one also.
+And just this type of out.
+The sacrifice hits and sacrifice flies don't count as at bats.
+But hits, outs that aren't sacrifices, reaching base on an error,
+and a fielder's choice, in other words a play made on a runner, those four
+categories here, those four sets of outcomes
+are summed together to make the total at bats.
+So, again, at bats are hits, outs that aren't sacrifices,
+reaching base on an error, and fielder's choices
+or force outs, plays made on a runner.
+Now, next, plate appearances are hits, outs of all kinds,
+reaching base on an error, fielder's choice,
+walks, hits by pitches, and defense interference.
+Now, these are just the definitions.
+And we have to make sure we understand the difference between at bats
+and plate appearances.
+But I want to talk about this statistic here, batting average.
+Because that's the whole point of this little segment.
+What's the problem with batting average?
+Well, batting average is defined as hits, this statistic here,
+hits divided by at bats, this statistic here.
+So hits divided by at bats is what's called batting average.
+And it determines what's known as the batting title.
+Every year Major League Baseball gives out the batting title
+to the player with the best batting average, as long as they
+have a certain number of plate appearances.
+They need 3.1 plate appearances for every game played by that team.
+So 3.1 plate appearances.
+If the team plays 162 games, that's the number
+of plate appearances required for qualifying for the batting title.
+Let's do some more fundamental baseball work here.
+What is the currency of the game?
+What really matters in the game of baseball?
+Well, what really matters in the game of baseball is runs.
+And this should be obvious.
+But it's good to score runs, if you're a team.
+And it's good to prevent the other team from scoring runs.
+Now, next week in Module Three, we'll talk a lot
+about this idea of how runs are related to wins.
+But when we're talking about hitting metrics,
+when we're talking about measuring offense
+and various hitting metrics that are out there, like batting average which
+we just defined, we have to talk about how well
+these statistics, these numbers, like batting average,
+represent this idea of scoring runs for your offense.
+So we have to get the point where we're relating
+the runs scored by the offense and various indicators,
+like batting average, various hitting metrics
+that represent the ability to score runs.
+In the next video segment, we're going to introduce to you how sabermetricians
+analyze hitting metrics so that they really understand whether they really
+represent this key idea of contributing to the offense of the team
+to help win games.
+The whole idea is to win.
+And the whole idea of your offense is to score runs.
+So how do we measure that well?
+You'll see that in the next segment.
+ 

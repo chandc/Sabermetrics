@@ -1,0 +1,99 @@
+ 
+ANDY ANDRES: Continuing our look at descriptive statistics,
+I wanted to cover, now, measures of spread or measures
+of variability of a data set.
+We want to cover a few key ones here.
+One is called range, the range of data in a data set.
+Then another version of this, the interquartile range,
+is important for different kinds of distributions of data.
+Then percentiles.
+Three other measures of spread or variability
+which are important in statistics are average absolute deviation,
+variance and standard deviation, and finally, coefficient of variation.
+Let's take a few minutes and better understand
+these various measures of spread of a data set.
+So remember our sample data set.
+David Ortiz's yearly home run totals.
+So N equals 17, that's our number of data points in our data set.
+N equals 17, there are 17 years of home runs for David Ortiz in our data set.
+Now the range, the range is just defined as the largest
+number minus the smallest.
+Largest minus smallest, and we're going to use LMS again
+when we talk about interquartile range.
+Now here's the largest.
+Largest is 54.
+The smallest is zero, so our range equals 54 minus 0, which is 54.
+So this is one measure of spread or variability.
+So range is useful as far as it goes.
+It captures the range from the largest to the smallest.
+When we think of interquartile range, it's
+sometime described along with what's called the five numbers set.
+And here's the five numbers set.
+S, Q1, Q2, Q3, and L. We already defined S and L.
+S is the smallest number in the data set and L is the largest.
+We already know Q2 as well.
+Q2 is always the median of a data set.
+Last time we went through this, the median would be the middle there.
+N equals 17 again.
+Since it's odd, we have to balance each side so that they're equal,
+and that would mean 8 data points on each side of the median.
+Well, there's the median.
+Here's the median.
+We also know the median is Q2.
+ 
+Now, the interquartile range, the interquartile range sometimes referred
+to as IQR, is Q3 minus Q1.
+What's Q3?
+Well, the way we do Q3 is we go on the side above Q2,
+and we start getting the median in that data set.
+So there's 8 points here, 8 points here above Q2 or the median.
+When we find the median of that subset of the data, that's Q3.
+N equals 8, there's 4 data points here and here, so Q3 will fit right in here,
+and we have to take the average of these two numbers.
+So Q3 is the average of these two numbers, and that's 33.5.
+33.5.
+Do the same thing for the numbers on the lower side of the median to get Q1,
+so we take these 8 points here.
+There's 4 on this side, 4 here.
+So we know Q1 is going to sit here.
+Q1 will be the average of these two numbers, so Q1 equals 14.
+So we have a five number set.
+0, 14, 28, 33.5, and 54.
+This five number set helps describe both the range, the absolute range
+from top to bottom, and the interquartile range.
+It tells us the median, Q1, Q3-- here's Q1, here's Q3.
+The interquartile range is the difference between Q3 and Q1,
+so this means it's going to be equal 33.5 minus 14,
+which is going to equal 19.5.
+Let's move on to the next one, percentiles.
+Think of percentiles, think of the full range of the data set,
+from smallest being 0% to the largest being 100%.
+And if you wanted a percentile-- let's say, for example, the 90th percentile.
+You might want this in baseball data.
+You might want to know a measure of some ability
+and you want to know the 90th percentile where
+you're talking about only players above that 90%, the very
+special elite players.
+So 90th percentile might be a statistic that you
+want to understand better, the measure of spread or variability
+around any given data set.
+Let's use this as an example, 90%.
+The 90th percentile of this data set is calculated this way.
+What you do is take the 90th percentile and you convert that to a decimal,
+so now you've got 0.9, 0.9 as 90th percentile.
+You multiply it by N. So you want the N-th percentile multiplied
+by N, the number of samples in your data set.
+So 0.9 times 17 turns out to be 15.3.
+We round this up to 16, any time it's a decimal, we round it up.
+So we round it up to 16.
+So we count 16 points in our data set.
+The 16th point is this one here.
+ 
+So the 90th percentile in our data set is 47.
+That's the 90th percentile.
+ 
+And of course, you can calculate other percentiles than just the 90th.
+Maybe the 37.5 percentile or the 66.7 percentile.
+It's done the same way, converting it to a decimal,
+multiplying by the number of samples in your data set, rounding up the decimal,
+and finding that actual data point in a rank ordered list.
